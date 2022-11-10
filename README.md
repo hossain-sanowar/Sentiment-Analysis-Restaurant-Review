@@ -8,10 +8,9 @@ https://www.kaggle.com/datasets/d4rklucif3r/restaurant-reviews
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
-• web app:
-
+## Web Application:
 ![GIF](readme_resources/restaurant-review-web-app.gif)
+## Heroku-web Application:
 
-
-
+![Heroku Weblink:](https://restaurant-review01.herokuapp.com/)
 ![Heroku-apps](readme_resources/application-heroku.png)
