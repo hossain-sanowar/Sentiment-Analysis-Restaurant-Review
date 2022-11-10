@@ -14,4 +14,4 @@ https://www.kaggle.com/datasets/d4rklucif3r/restaurant-reviews
 
 
 
-![Heroku-apps](readme_resources/application-error-heroku.png)
+![Heroku-apps](readme_resources/application-heroku.png)
